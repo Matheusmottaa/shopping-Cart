@@ -4,4 +4,4 @@ Made with:
 
   - React
   - Typescript 
-  - sass
+  - styled components
